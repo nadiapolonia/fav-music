@@ -1,0 +1,31 @@
+{
+  "music": [
+    {
+      "image": "https://www.billboard.com/files/media/Epik-High-press-photo-2019-billboard-1548.jpg",
+      "title": "Epik High",
+      "genre": "Korean hip-hop",
+      "music-video": "https://www.youtube.com/watch?v=pTD9Jysi3_g"
+    },
+
+    {
+      "image": "https://i.pinimg.com/originals/1c/e8/02/1ce8025fd56f699944fabc5d8843da77.jpg",
+      "title": "Fujifabric",
+      "genre": "J-rock",
+      "music-video": "https://www.youtube.com/watch?v=j3DrDR_qTcs"
+    },
+
+    {
+      "image": "https://ichef.bbci.co.uk/images/ic/960x540/p01bqm2q.jpg",
+      "title": "Nat King Cole",
+      "genre": "Jazz/Blues",
+      "music-video": "https://www.youtube.com/watch?v=GfAb0gNPy6s"
+    },
+
+    {
+      "image": "https://cdn.nybooks.com/wp-content/uploads/2018/11/debussy-detail.jpg",
+      "title": "Claude Debussy",
+      "genre": "Classical",
+      "music-video": "https://www.youtube.com/watch?v=HtP137xWIoI"
+    }
+  ]
+}
